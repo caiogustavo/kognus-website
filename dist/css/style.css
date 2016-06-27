@@ -1,0 +1,76 @@
+/*!
+ * Caio's style
+*/
+
+#login-body {
+  background-image: url(../../images/login/brain.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#login-body img{
+  width: 100%;
+}
+
+#wrapper #page-wrapper {
+  margin-top: 150px; /* Ccorrect this to be responsive */
+}
+
+#page-wrapper h1{
+  padding: 50px 0 50px 0;
+}
+
+.page-without-sidebar #page-wrapper {
+  margin-left: -15px;
+  }
+
+#myInverseNavbar2 a, #brand {
+	text-color: white;
+}
+
+.carousel-inner .c-title{
+  height: 80px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.carousel-inner .c-caption{
+	text-align: center;
+	font-size: 12px;
+}
+
+.slide .carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #bab \9;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+
+.thumbnail .caption{
+	text-align: center;
+	font-size: 20px;
+	background: grey;
+}
+
+.panel-body img{
+  width: 100%;
+  height: 200px;
+}
+
+.carousel img {
+  height: 200px;
+}
+
+.carousel .carousel-inner {
+  height: 300px;
+}
+
+.nav-second-level li{
+  padding-left: 10px;
+}
